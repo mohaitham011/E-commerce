@@ -27,6 +27,7 @@ This project provides a complete shopping experience including product managemen
 📦 Manage orders and users
 
 📂 Project Structure
+<pre>
 E-commerce/
 │── frontend/           # React.js frontend
 │   ├── src/
@@ -45,6 +46,7 @@ E-commerce/
 │   ├── public/
 │   └── package.json
 │── README.md
+</pre>
 
 🛠️ Tech Stack
 
